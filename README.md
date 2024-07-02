@@ -8,7 +8,7 @@ The data used in this project is sourced from Kaggle's Washington State Electric
 ## Tools and Technologies
 - **Tableau**: Used for creating interactive dashboards and visualizations to explore and present the data.
 - **Kaggle**: Data source for the project.
-- 
+  
 ## Dashboards and Visualizations
 - **Total Number of Registered EVs**: A summary visualization showing the total count of registered EVs in Washington.
 - **EV Distribution by Makes**: A bar chart displaying the distribution of EVs by car makes, identifying the most popular makes.
